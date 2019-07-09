@@ -1,2 +1,2 @@
-# Query-Optimization-using-B-Tree
-![alt text](cover.jpg)
+# Query-Optimization-using-B-PlusTree
+![alt text](cover.png)
