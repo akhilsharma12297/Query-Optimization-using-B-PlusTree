@@ -1,2 +1,2 @@
-# Query-Optimization-using-B-PlusTree
+# Query Optimization using B PlusTree
 ![alt text](cover.png)
